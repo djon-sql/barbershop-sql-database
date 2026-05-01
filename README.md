@@ -61,13 +61,13 @@ Main entities:
 
 Run scripts in order:
 
-1. [create_tables.sql](schema/create_tables.sql)
-2. [indexes.sql](schema/indexes.sql)
-3. [insert_data.sql](data/insert_data.sql)
-4. [procedures.sql](logic/procedures.sql)
-5. [views.sql](logic/views.sql)
-6. [triggers.sql](logic/triggers.sql)
-7. [business_queries.sql](analytics/business_queries.sql)
+1. [create_tables.sql](Barbershop-SQL-Database/schema/create_tables.sql)
+2. [indexes.sql](Barbershop-SQL-Database/schema/indexes.sql)
+3. [insert_data.sql](Barbershop-SQL-Database/data/insert_data.sql)
+4. [procedures.sql](Barbershop-SQL-Database/logic/procedures.sql)
+5. [views.sql](Barbershop-SQL-Database/logic/views.sql)
+6. [triggers.sql](Barbershop-SQL-Database/logic/triggers.sql)
+7. [business_queries.sql](Barbershop-SQL-Database/analytics/business_queries.sql)
 
 ## ⚠️ Notes
 - Data is randomly generated
