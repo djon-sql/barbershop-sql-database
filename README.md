@@ -12,6 +12,23 @@ Synthetic data was generated to simulate real-world usage.
 - Optimize queries with indexes
 - Perform business analytics
 
+## 🛠 Tech Stack
+- SQL Server
+- T-SQL
+
+## 🔥 Project Highlights
+- Designed normalized relational database
+- Implemented many-to-many relationships
+- Created stored procedures for business logic
+- Used triggers for data validation
+- Built analytical queries for business insights
+
+## 📂 Project Structure
+- schema/
+- data/
+- logic/
+- analytics/
+
 ## 🧱 Database Structure
 Main entities:
 - Barbers
