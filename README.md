@@ -38,6 +38,10 @@ Main entities:
 - Visit Archive
 - Feedback
 
+## 🗺 Database Schema
+
+![ERD](images/erd.png)
+
 ## ⚙️ Features
 - Primary & Foreign Keys
 - Stored Procedures
