@@ -2,6 +2,7 @@
 
 ## 📖 About the Project
 This project represents a relational database for a barbershop management system.
+This project demonstrates practical SQL skills for data analysis and database design.
 
 The database was designed and implemented from scratch using SQL Server.
 Synthetic data was generated to simulate real-world usage.
@@ -57,10 +58,16 @@ Main entities:
 - Workload analysis
 
 ## 🚀 How to Run
-1. Run schema scripts
-2. Insert data
-3. Execute logic scripts
-4. Run analytics queries
+
+Run scripts in order:
+
+1. [create_tables.sql](schema/create_tables.sql)
+2. [indexes.sql](schema/indexes.sql)
+3. [insert_data.sql](data/insert_data.sql)
+4. [procedures.sql](logic/procedures.sql)
+5. [views.sql](logic/views.sql)
+6. [triggers.sql](logic/triggers.sql)
+7. [business_queries.sql](analytics/business_queries.sql)
 
 ## ⚠️ Notes
 - Data is randomly generated
